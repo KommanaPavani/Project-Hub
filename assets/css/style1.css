@@ -1,0 +1,22 @@
+/* style1.css */
+
+/* Wrapper styling */
+body, html {
+    height: 100%;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #6a5acd; /* Purplish-blue color */
+}
+
+.container-wrapper {
+    background-color: rgb(188, 56, 4);
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    width: 780px;
+    height:700px;
+    margin: 20px auto; /* Add auto margin to center horizontally */
+    position: relative; /* Use relative positioning */
+}
