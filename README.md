@@ -14,7 +14,8 @@ Currently runs on `localhost` using XAMPP.
 
 
 ### 2. Domain Selection Page
-!(https://github.com/user-attachments/assets/25a1e9a1-36bf-4569-8c0a-83d9143ae7bd)
+![WhatsApp Image 2025-07-08 at 18 15 32_cb824bb9](https://github.com/user-attachments/assets/a3f66a88-4a84-4a9f-a60a-c8e60e7966f2)
+
 
 
 ---
